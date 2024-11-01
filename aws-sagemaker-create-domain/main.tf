@@ -1,6 +1,6 @@
 #####################################################
 # TERRAFORM.MAIN()
-# author: bishrt@amazon.com
+# author: bishrt
 # @rel: https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/sagemaker_domain
 # @rel: https://github.com/aws-samples/sagemaker-domain-vpconly-canvas-with-terraform
 # @rel: https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-domain-in-vpc-only-mode-to-support-sagemaker-studio-with-auto-shutdown-lifecycle-configuration-and-sagemaker-canvas-with-terraform/
