@@ -1,6 +1,6 @@
 #####################################################
 # TERRAFORM.VARIABLES
-# author: bishrt@amazon.com
+# author: bishrt
 # description: variables for SageMaker Domain Creation via Terraform
 #####################################################
 
